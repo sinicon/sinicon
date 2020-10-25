@@ -1,4 +1,4 @@
-![Alt Text](<img src="https://vignette4.wikia.nocookie.net/carbotanimations/images/0/02/Nom_nom_nom.gif" width="100%" height="430px")
+<img src="https://vignette4.wikia.nocookie.net/carbotanimations/images/0/02/Nom_nom_nom.gif" width="100%" height="430px"
 # 💀 I'm Kirill Nikitin, welcome to my GitHub! 💀
 
 * 🔭 I’m currently working on scripts for Screeps game 🤖
