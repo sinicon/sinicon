@@ -1,3 +1,4 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 # 💀 I'm Kirill Nikitin, welcome to my GitHub! 💀
 
 
