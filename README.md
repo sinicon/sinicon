@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://vignette4.wikia.nocookie.net/carbotanimations/images/0/02/Nom_nom_nom.gif)
 # 💀 I'm Kirill Nikitin, welcome to my GitHub! 💀
 
 
