@@ -3,6 +3,7 @@
 
 * 🔭 I’m currently working on scripts for Screeps game 🤖
 * 🌱 I’m currently learning *GitHub, Git, Maven, SQL, Java, Linux.*
+* 🏢 I'm currently working on Java based SQL CLI.
 * 🤔 I’m looking for help with *Maven/JavaFX*💻
 * 💬 Ask me about Java🐸
 * 📫 How to reach me: siniconix@gmail.com
